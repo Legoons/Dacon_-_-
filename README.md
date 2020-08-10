@@ -4,10 +4,11 @@ https://dacon.io/competitions/official/235615/overview/
 
 ![dacon 순위](https://user-images.githubusercontent.com/50981989/89752066-c1c21000-db0d-11ea-9361-eac072456e55.PNG)
 
-참가 1301팀, 제출한 420팀 중 12 등을 하였습니다.<p>
-</p>
-<p>
-</p>
+참가 1301팀, 제출한 420팀 중 12 등을 하였습니다.
+
+
+
+
 
 처음으로 참가한 기간제 공모전이었으며, 코로나로 인해 팀을 구성하지 않고 혼자 진행하였습니다.
 
