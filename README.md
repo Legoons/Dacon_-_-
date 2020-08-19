@@ -4,7 +4,7 @@ https://dacon.io/competitions/official/235615/overview/
 
 ![dacon 순위](https://user-images.githubusercontent.com/50981989/89752066-c1c21000-db0d-11ea-9361-eac072456e55.PNG)
 
-참가 1301팀, 제출한 420팀 중 12 등을 하였습니다.    
+참가 1301팀, 제출한 411팀 중 12 등을 하였습니다.    
                  
                 
 
